@@ -24,13 +24,14 @@ public class DataUtils {
             "http://ww1.sinaimg.cn/mw690/b0d9a523jw1fasfnzuyj1j20760760t2.jpg",
             "http://p1.so.qhmsg.com/bdr/_240_/t01ffd622bffeabb5e1.jpg",
             "http://p4.so.qhmsg.com/bdr/_240_/t01956d7d9ed4a92064.jpg",
-            "http://p2.so.qhmsg.com/t01d246b04431839967.jpg",
-            "http://p1.so.qhmsg.com/t011de7d37fa09db9fb.jpg",
-            "http://p1.so.qhmsg.com/t01884146f65753e7f1.jpg",
-            "http://p1.so.qhmsg.com/t012a2c764af00ad826.jpg",
-            "http://p1.so.qhmsg.com/sdr/675_1080_/t01e2df2f97c45e009b.jpg",
-            "http://p0.so.qhmsg.com/sdr/607_1080_/t014206a369985da5c0.jpg",
-            "http://p1.so.qhmsg.com/sdr/607_1080_/t01f305b324e56668f1.jpg"
+            "http://ws-ugc.fithub.cc/app/2199695/dynamic/7432/f778b46711474fe9b312ea9386ab2d2b.jpg",
+            "http://ws-ugc.fithub.cc/app/2199695/dynamic/7432/cb7a48787b71450f8ea941aeef95a5f9.jpg",
+            "http://ws-ugc.fithub.cc/app/2199695/dynamic/7432/6690ce1ec57e47cd98d08c2eb6d1c382.jpg",
+            "http://ws-ugc.fithub.cc/app/2199695/dynamic/7432/60c9a63daf7e4a2ab2f765857fa639a1.jpg",
+            "http://ws-ugc.fithub.cc/app/2199695/dynamic/7432/488bbab516b84af89b60170ef299b4f1.jpg",
+            "http://ws-ugc.fithub.cc/app/2199695/dynamic/7432/bc9bc6cbc59a483397ca05f09cbe26b6.jpg",
+            "http://ws-ugc.fithub.cc/app/2199695/dynamic/7432/972c13f79ea74aa09d7742af3c81d00c.jpg",
+            "http://ws-ugc.fithub.cc/app/2199695/dynamic/7432/e192b9612a5d4f508255c149771f4e10.jpg"
     };
 
     public static String[] mStringTou = {
