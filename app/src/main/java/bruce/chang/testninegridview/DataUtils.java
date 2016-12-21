@@ -97,6 +97,7 @@ public class DataUtils {
         mPics6.add(mStrings[8]);
         mPics6.add(mStrings[0]);
         mPics6.add(mStrings[10]);
+        mPics5.add(mStrings[9]);
         EvaluationItem one6 = new EvaluationItem(mStringTou[2], "张无忌", 5, "明教第三十二代教主", "2016-12-16 10:47", mPics6);
         itemList.add(one6);
 
@@ -108,6 +109,7 @@ public class DataUtils {
         mPics7.add(mStrings[11]);
         mPics7.add(mStrings[10]);
         mPics7.add(mStrings[0]);
+        mPics6.add(mStrings[3]);
         EvaluationItem one7 = new EvaluationItem(mStringTou[1], "张无忌", 5, "明教第三十二代教主", "2016-12-16 10:47", mPics7);
         itemList.add(one7);
 
@@ -124,6 +126,22 @@ public class DataUtils {
         mPics8.add(mStrings[9]);
         EvaluationItem one8 = new EvaluationItem(mStringTou[0], "张无忌", 5, "明教第三十二代教主", "2016-12-16 10:47", mPics8);
         itemList.add(one8);
+
+        List<String> mPics9 = new ArrayList<>();
+        mPics9.add(mStrings[1]);
+        mPics9.add(mStrings[2]);
+        mPics9.add(mStrings[3]);
+        mPics9.add(mStrings[4]);
+        mPics9.add(mStrings[5]);
+        mPics9.add(mStrings[6]);
+        mPics9.add(mStrings[7]);
+        mPics9.add(mStrings[8]);
+        mPics9.add(mStrings[9]);
+        mPics9.add(mStrings[10]);
+        mPics9.add(mStrings[11]);
+
+        EvaluationItem one9 = new EvaluationItem(mStringTou[0], "张无忌", 5, "明教第三十二代教主", "2016-12-16 10:47", mPics9);
+        itemList.add(one9);
         return itemList;
     }
 }
