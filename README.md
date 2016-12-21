@@ -48,6 +48,8 @@
 
 > 以上就是对NineGridView使用时候的一些个人看法，主要就是增+两张图片的适配效果。
 
+欢迎访问201216323.tech来查看我的CSDN博客。
+
 欢迎关注我的个人技术公众号,快速查看我的最新文章。
 
 ![这里写图片描述](http://img.blog.csdn.net/20161220174646569?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvY2NnXzIwMTIxNjMyMw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
